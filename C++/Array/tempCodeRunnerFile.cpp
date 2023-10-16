@@ -1,2 +1,0 @@
-
-        while (left <= right && s
